@@ -1,6 +1,3 @@
-/**
- *Submitted for verification at polygonscan.com on 2024-05-13
-*/
 
 // SPDX-License-Identifier: MIT
 // File: @chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol
